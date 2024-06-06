@@ -1,0 +1,241 @@
+echo "# Pegasis00" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pegasis00/Pegasis00.git
+git push -u origin main
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Bliss</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cafe Bliss</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to Cafe Bliss</h2>
+            <p>Enjoy our finest selection of beverages</p>
+        </section>
+        <section class="featured-beverages">
+            <h2>Featured Beverages</h2>
+            <div class="beverage">
+                <img src="images/coffee.jpg" alt="Coffee">
+                <h3>Espresso</h3>
+                <p>A rich and strong coffee experience.</p>
+            </div>
+            <div class="beverage">
+                <img src="images/tea.jpg" alt="Tea">
+                <h3>Green Tea</h3>
+                <p>A refreshing and healthy choice.</p>
+            </div>
+            <div class="beverage">
+                <img src="images/smoothie.jpg" alt="Smoothie">
+                <h3>Berry Smoothie</h3>
+                <p>A sweet and fruity delight.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cafe Bliss. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Bliss</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cafe Bliss</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to Cafe Bliss</h2>
+            <p>Enjoy our finest selection of beverages</p>
+        </section>
+        <section class="featured-beverages">
+            <h2>Featured Beverages</h2>
+            <div class="beverage">
+                <img src="images/coffee.jpg" alt="Coffee">
+                <h3>Espresso</h3>
+                <p>A rich and strong coffee experience.</p>
+            </div>
+            <div class="beverage">
+                <img src="images/tea.jpg" alt="Tea">
+                <h3>Green Tea</h3>
+                <p>A refreshing and healthy choice.</p>
+            </div>
+            <div class="beverage">
+                <img src="images/smoothie.jpg" alt="Smoothie">
+                <h3>Berry Smoothie</h3>
+                <p>A sweet and fruity delight.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cafe Bliss. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Cafe Bliss</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cafe Bliss</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Contact Us</h2>
+        <form id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+        <section class="location">
+            <h2>Our Location</h2>
+            <p>123 Cafe Street, Beverage City</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cafe Bliss. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    background: url('../images/cafe.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.featured-beverages {
+    padding: 20px;
+    text-align: center;
+}
+
+.featured-beverages .beverage {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+.featured-beverages .beverage img {
+    width: 200px;
+    height: auto;
+}
+
+.menu-list {
+    list-style: none;
+    padding: 0;
+}
+
+.menu-list li {
+    padding: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+
+form input, form textarea, form button {
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.location {
+    text-align: center;
+    padding: 20px;
+}
+document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    alert('Thank you for contacting us!');
+});
