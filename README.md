@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/header.png" width="100%">
+  <img src="assets/header1.png" width="100%">
 </p>
 
 <h1 align="center">Pritam Suryawanshi (Pegasus) 🦇</h1>
 <p align="center">Full-Stack Developer • Machine Learning • Cloud • Data Science</p>
 
 <p align="center">
-  <img src="assets/divider.png" width="60%">
+  <img src="assets/divider1.png" width="60%">
 </p>
 
 ## 🖤 About Me  
@@ -23,7 +23,7 @@ A developer who builds with a mix of
 
 ## 🎯 Tech Stack  
 <p align="center" style="background:black; padding:20px; border-radius:12px;">
-  <img src="assets/techbg.png" width="100%">
+  <img src="assets/techbg1.png" width="100%">
 </p>
 
 ---
@@ -62,5 +62,5 @@ Cloud-ready backend designs
 ---
 
 <p align="center">
-  <img src="assets/footer.png" width="100%">
+  <img src="assets/footer1.png" width="100%">
 </p>
