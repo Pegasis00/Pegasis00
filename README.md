@@ -1,70 +1,93 @@
-<div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Pegasus's%20Realm&fontSize=42&fontAlignY=32&desc=Where%20Code%20Takes%20Flight%20⚡&descAlignY=51&descAlign=50&animation=twinkling"/>
+<!-- Anime Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/w1bXGQ9.gif" width="800"/>
+</p>
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Architecture+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Building+Digital+Wings+%F0%9F%A6%85)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=6366f1&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## 🌟 About Me
-
-```javascript
-const pegasus = {
-    name: "Pegasus",
-    location: "Cloud Nine 🌥️",
-    motto: "Building digital wings, one commit at a time",
-    currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "Cloud", "APIs", "Coffee ☕"],
-    funFact: "I debug faster than lightning strikes ⚡"
-};
-```
-
-## 🚀 What I Do
-
-- 🎯 Crafting elegant solutions to complex problems
-- 🔥 Building scalable applications that soar
-- 🌐 Contributing to open-source communities
-- 📚 Constantly learning and evolving
-- 💡 Turning coffee into code since forever
-
-<br clear="both"/>
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF79C6&center=true&vCenter=true&width=800&lines=Yo+I'm+Pritam+(Pegasus)+👋;Full+Stack+%2B+ML+Developer+⚡;Anime+Enthusiast+🔥;Building+Cool+Sh*t+Daily+💻" />
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🌸 About Me — Anime Protagonist Arc  
+I'm **Pritam (Pegasus)** — a 20-year-old dev leveling up like an anime main character.  
+Every project = new episode.  
+Every bug = villain I must solo.  
+Every commit = power-up moment.  
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,c,php&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html&theme=dark" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql&theme=dark" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase&theme=dark" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=figma,postman,blender,git,vscode&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+- 🎓 MSc Data Science @ Fergusson  
+- 🤖 ML | DL | AI | Full-Stack  
+- 🚀 Currently working on ML research + IoT + DS mastery  
+- 🎮 Loves anime, biking, tech, esports  
+- 🏆 Goal: Build a startup + travel the world like a shonen MC  
 
 ---
 
+## 💫 My Aesthetic Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,nextjs,html,css,tailwind,flask,django,mongodb,mysql,sqlite,linux,git,github,tensorflow,pytorch&theme=light" />
+</p>
+
+---
+
+## ⚔️ GitHub Power Stats (Anime Edition)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pegasis00&show_icons=true&theme=dracula&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pegasis00&theme=dracula&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasis00&layout=compact&theme=dracula&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🏆 Anime Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pegasis00&theme=dracula&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 📜 Character Development Timeline  
+
+2019 — first line of code, felt like Naruto learning shadow clones
+2020 — Python & Java grind arc
+2021 — built mini projects, confidence arc begins
+2022 — ML discovery arc (brain explosions daily)
+2023 — Full-stack mode activated
+2024 — Research papers, ML systems, real-world projects
+2025 — Main character energy unlocked: startup prep arc
+Future — Hack the world, travel, build, inspire 💫
 
 
+---
+
+## 🎧 Anime OST I'm Probably Coding To  
+<p align="center">
+  <img src="https://i.imgur.com/PW2bY1S.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://github.com/Pegasis00"><img src="https://i.imgur.com/0o48UoR.gif" width="70"/></a>
+  <a href="mailto:pritamsuryawanshi278@gmail.com"><img src="https://i.imgur.com/YKQwz92.gif" width="70"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://i.imgur.com/qWfX0eE.gif" width="70"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/0ZfKq2J.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&color=FF2D95&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile+💖;May+your+code+compile+on+first+try+🙏;Let's+build+cool+sh*t+together+🔥" />
+</p>
