@@ -1,66 +1,42 @@
-<p align="center">
-  <img src="assets/header1.png" width="100%">
-</p>
+# Hey, I'm Pritam (Pegasus) 👋
 
-<h1 align="center">Pritam Suryawanshi (Pegasus) 🦇</h1>
-<p align="center">Full-Stack Developer • Machine Learning • Cloud • Data Science</p>
+I'm a **Full-Stack Developer** and **Data Science / ML enthusiast** currently pursuing **MSc Data Science @ Fergusson College**.
 
-<p align="center">
-  <img src="assets/divider1.png" width="60%">
-</p>
-
-## 🖤 About Me  
-A developer who builds with a mix of  
-**discipline, curiosity, and silent main-character energy.**
-
-- MSc Data Science @ Fergusson  
-- Working on ML + XGBoost + Streamlit systems  
-- Love clean code, clean UI, clean architecture  
-- Building towards a tech startup future  
-- Big believer in “learn fast, ship faster”
+I like building real, practical things — ML models, full-stack apps, dashboards, APIs, anything that actually solves a problem.  
+Right now I'm focused on improving my ML workflow, XGBoost skills, EDA, and clean backend engineering.
 
 ---
 
-## 🎯 Tech Stack  
-<p align="center" style="background:black; padding:20px; border-radius:12px;">
-  <img src="assets/techbg1.png" width="100%">
-</p>
+## 🚀 What I'm Working On
+- Machine Learning practice projects  
+- Research: Detecting AI-Generated Content using ML  
+- Smart Urban Parking Prediction (ML + IoT)  
+- XGBoost + Streamlit + EDA workflows  
+- Improving full-stack fundamentals (React + APIs)
 
 ---
 
-## 📊 GitHub Snapshot  
-*(Self-hosted: add your own screenshots into assets/)*
-
-<p align="center">
-  <img src="assets/github-stats.png" width="65%"><br><br>
-  <img src="assets/streak.png" width="65%"><br><br>
-  <img src="assets/langs.png" width="65%">
-</p>
+## 🧰 Tech I Use
+**Languages:** Python, JavaScript, Java  
+**ML / DS:** NumPy, Pandas, Scikit-Learn, XGBoost, TensorFlow  
+**Web:** React, Node.js, Flask, Streamlit  
+**Databases:** MySQL, SQLite, MongoDB  
+**Tools:** Git, GitHub, Linux, VS Code  
 
 ---
 
-## 🚀 Featured Work  
-- **Machinelearning_Projects** → ML pipelines, EDA, model training  
-- **Projects** → Full-stack experiments & utilities  
+## 📁 Projects
+- **Machinelearning_Projects** – ML models, preprocessing, notebooks  
+- **Projects** – Full-stack experiments & utilities  
+- More coming soon 👀
 
 ---
 
-## 🔧 What I'm Building Right Now  
-
-ML systems with XGBoost
-Streamlit dashboards
-Smart Parking ML architecture
-Cloud-ready backend designs
-
+## 📫 Contact
+- **Email:** pritamsuryawanshi278@gmail.com  
+- **GitHub:** https://github.com/Pegasis00  
 
 ---
 
-## 🦇 Connect With Me  
-**Email:** pritamsuryawanshi278@gmail.com  
-**GitHub:** https://github.com/Pegasis00  
-
----
-
-<p align="center">
-  <img src="assets/footer1.png" width="100%">
-</p>
+Thanks for checking out my profile 🚀  
+Feel free to explore my repos or reach out if you wanna connect!
