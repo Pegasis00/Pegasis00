@@ -1,42 +1,46 @@
-# Hey, I'm Pritam (Pegasus) 👋
+# Hi, I'm Pritam Suryawanshi
 
-I'm a **Full-Stack Developer** and **Data Science / ML enthusiast** currently pursuing **MSc Data Science @ Fergusson College**.
+I am currently pursuing an **MSc in Data Science at Fergusson College, Pune**, with a strong interest in **Machine Learning, Data Science, Time Series Analysis, and applied AI systems**.
 
-I like building real, practical things — ML models, full-stack apps, dashboards, APIs, anything that actually solves a problem.  
-Right now I'm focused on improving my ML workflow, XGBoost skills, EDA, and clean backend engineering.
-
----
-
-## 🚀 What I'm Working On
-- Machine Learning practice projects  
-- Research: Detecting AI-Generated Content using ML  
-- Smart Urban Parking Prediction (ML + IoT)  
-- XGBoost + Streamlit + EDA workflows  
-- Improving full-stack fundamentals (React + APIs)
+My work focuses on building practical, end-to-end projects involving **data preprocessing, feature engineering, model development, evaluation, and deployment**. I am particularly interested in solving real-world problems using data-driven systems and continuously improving my skills in both **machine learning** and **software development**.
 
 ---
 
-## 🧰 Tech I Use
-**Languages:** Python, JavaScript, Java  
-**ML / DS:** NumPy, Pandas, Scikit-Learn, XGBoost, TensorFlow  
-**Web:** React, Node.js, Flask, Streamlit  
-**Databases:** MySQL, SQLite, MongoDB  
-**Tools:** Git, GitHub, Linux, VS Code  
+## Technical Skills
+
+**Languages:**  
+Python, SQL
+
+**Machine Learning / Data Science:**  
+Scikit-learn, Pandas, NumPy, LightGBM, TensorFlow
+
+**Data Analysis / Modeling:**  
+EDA, Feature Engineering, Time Series Analysis, Forecasting, Model Evaluation
+
+**Web / Deployment:**  
+Streamlit, FastAPI, React, Git, GitHub, Jupyter Notebook, Google Colab
 
 ---
 
-## 📁 Projects
-- **Machinelearning_Projects** – ML models, preprocessing, notebooks  
-- **Projects** – Full-stack experiments & utilities  
-- More coming soon 👀
+## Current Focus
+- Machine Learning model development and evaluation
+- Exploratory Data Analysis and feature engineering
+- Time Series Analysis and forecasting
+- Building end-to-end data-driven applications
+- Strengthening foundations for Data Science and ML roles
 
 ---
 
-## 📫 Contact
-- **Email:** pritamsuryawanshi278@gmail.com  
-- **GitHub:** https://github.com/Pegasis00  
+## Projects
+- **Real-Time Weapon & Fire-Smoke Detection System**
+- **Customer Impulse Buying Prediction System**
+- **SemiTrack India – Semiconductor Import Dependence Analysis & Policy Dashboard**
+
+More projects and experiments are available in my repositories.
 
 ---
 
-Thanks for checking out my profile 🚀  
-Feel free to explore my repos or reach out if you wanna connect!
+## Contact
+**Email:** pritamsuryawanshi278@gmail.com  
+**LinkedIn:** [Pritam Suryawanshi](https://linkedin.com/in/pritam-suryawanshi)  
+**GitHub:** [Pegasis00](https://github.com/Pegasis00)
