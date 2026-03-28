@@ -32,7 +32,6 @@ Streamlit, FastAPI, React, Git, GitHub, Jupyter Notebook, Google Colab
 ---
 
 ## Projects
-- **Real-Time Weapon & Fire-Smoke Detection System**
 - **Customer Impulse Buying Prediction System**
 - **SemiTrack India – Semiconductor Import Dependence Analysis & Policy Dashboard**
 
