@@ -1,45 +1,68 @@
-# Hi, I'm Pritam Suryawanshi
+# Hey, I'm Pritam 👋
 
-I am currently pursuing an **MSc in Data Science at Fergusson College, Pune**, with a strong interest in **Machine Learning, Data Science, Time Series Analysis, and applied AI systems**.
+I'm currently pursuing an MSc in Data Science at Fergusson College, Pune, and I enjoy building things with data.
 
-My work focuses on building practical, end-to-end projects involving **data preprocessing, feature engineering, model development, evaluation, and deployment**. I am particularly interested in solving real-world problems using data-driven systems and continuously improving my skills in both **machine learning** and **software development**.
+Most of my time goes into understanding how machine learning systems work under the hood—not just using models, but learning why they work, when they fail, and how to build reliable end-to-end pipelines around them.
 
----
+Lately I've been exploring areas like machine learning, retrieval systems, time series analysis, data engineering, and modern AI applications. I enjoy taking ideas from research papers or tutorials and turning them into practical projects that solve real problems.
 
-## Technical Skills
-
-**Languages:**  
-Python, SQL
-
-**Machine Learning / Data Science:**  
-Scikit-learn, Pandas, NumPy, LightGBM, TensorFlow
-
-**Data Analysis / Modeling:**  
-EDA, Feature Engineering, Time Series Analysis, Forecasting, Model Evaluation
-
-**Web / Deployment:**  
-Streamlit, FastAPI, React, Git, GitHub, Jupyter Notebook, Google Colab
+Outside of building projects, I'm constantly learning new technologies, experimenting with different approaches, and documenting what I learn along the way.
 
 ---
 
-## Current Focus
-- Machine Learning model development and evaluation
-- Exploratory Data Analysis and feature engineering
-- Time Series Analysis and forecasting
-- Building end-to-end data-driven applications
-- Strengthening foundations for Data Science and ML roles
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Machine Learning**
+- Scikit-learn
+- TensorFlow
+- LightGBM
+
+**Data Analysis**
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+
+**Backend & Deployment**
+- FastAPI
+- Streamlit
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
 
 ---
 
-## Projects
-- **Customer Impulse Buying Prediction System**
-- **SemiTrack India – Semiconductor Import Dependence Analysis & Policy Dashboard**
+## 🌱 Currently Learning
 
-More projects and experiments are available in my repositories.
+- Advanced Machine Learning
+- Data Engineering (PySpark, Kafka, Airflow)
+- Time Series Forecasting
+- Cloud Technologies (AWS)
+- Building scalable AI systems
 
 ---
 
-## Contact
-**Email:** pritamsuryawanshi278@gmail.com  
-**LinkedIn:** [Pritam Suryawanshi](https://linkedin.com/in/pritam-suryawanshi)  
-**GitHub:** [Pegasis00](https://github.com/Pegasis00)
+## 📚 What you'll find here
+
+- Machine Learning projects
+- Data Science experiments
+- Time Series analysis
+- Data Engineering practice
+- End-to-end AI applications
+- Notes from things I'm learning
+
+I'm always trying to write clean, reproducible code and build projects that teach me something new.
+
+---
+
+## 📫 Connect with me
+
+- **Email:** pritamsuryawanshi278@gmail.com
+- **LinkedIn:** https://linkedin.com/in/pritam-suryawanshi
